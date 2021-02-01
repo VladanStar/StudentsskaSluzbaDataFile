@@ -1,0 +1,9 @@
+Upis studenta sa najboljim prosekom
+Student{ime='Milan Milanovic', indeks=2019 / 222777 prosecna ocena NaN, uzrast=18, godinaStudija=1}
+Lista svih studenata u opadajucem redosledu prosecnih ocena
+Ukupan broj studenata 5
+Student{ime='Milan Milanovic', indeks=2019 / 222777 prosecna ocena NaN, uzrast=18, godinaStudija=1}
+Student{ime='Mika Mikic', indeks=2016 / 222666 prosecna ocena NaN, uzrast=22, godinaStudija=4}
+Student{ime='Laza Lazic', indeks=2019 / 222555 prosecna ocena NaN, uzrast=19, godinaStudija=1}
+Student{ime='Jovan Jovanovic', indeks=2018 / 222444 prosecna ocena NaN, uzrast=19, godinaStudija=2}
+Student{ime='Petar Petrovic', indeks=2017 / 222333 prosecna ocena NaN, uzrast=20, godinaStudija=2}
