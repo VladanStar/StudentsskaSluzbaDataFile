@@ -1,2 +1,2 @@
 # StudentsskaSluzbaDataFile
-Sa ulazne datoteke citamo listu studenata sa podacima, sortiramo ih po proseku..... Ispisujemo u drugu datoteku
+From the input file we read the list of students with data, we sort them by average ..... We write to another file
